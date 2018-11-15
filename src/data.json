@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/bebe-stevens.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/butters-stotch.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/eric-cartman.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/kenny-mccormick.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/mrslave.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/randy-marsh.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/shelly-marsh.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/stan-marsh.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/terrance.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/token-black.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/chef.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/kyle-broflovski.png",
+    "clicked": false
+  }
+]
